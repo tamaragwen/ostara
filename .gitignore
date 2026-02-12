@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+lib/
+lib64/
+include/
+bin/
+share/
+*.egg-info/
+.env
+.idea/
+.vscode/
+.DS_Store
